@@ -5,7 +5,7 @@ Additionally, I toyed around with different font properties and typefaces from G
 
 This is a project from [The Odin Project](https://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown).
 
-Screenshot...
+![Screenshot](assets/images/Screenshot.png)
 
 ## Pre-Project Thoughts
 
@@ -13,4 +13,4 @@ No particular thoughts going in.
 
 ## Post-Project Thoughts
 
-...
+Wasn't really.. helpful honestly.
